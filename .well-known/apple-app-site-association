@@ -5,6 +5,10 @@
             {
                 "appID": "7P2GYJJL52.com.WeWorld.WeCard",
                 "paths": [ "*" ]
+            },
+            {
+                "appID": "7P2GYJJL52.com.WeWorld.OkeyGel",
+                "paths": [ "*" ]
             }
         ]
     }
