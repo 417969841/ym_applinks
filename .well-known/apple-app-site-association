@@ -9,6 +9,10 @@
             {
                 "appID": "7P2GYJJL52.com.WeWorld.OkeyGel",
                 "paths": [ "*" ]
+            },
+            {
+                "appID": "8K3VASNBD5.com.Turkey.Okey101",
+                "paths": [ "*" ]
             }
         ]
     }
